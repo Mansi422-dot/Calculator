@@ -84,7 +84,7 @@ You can also use the Live Server extension in Visual Studio Code for local devel
 Add a screenshot of the calculator here:
 
 ```text
-![Calculator Preview](assets/calculator.png)
+![Calculator Preview](/assets/calculator.png)
 ```
 
 ## 🧠 What I Learned
