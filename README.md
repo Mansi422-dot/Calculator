@@ -47,7 +47,7 @@ No installation or dependencies are required.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/Mansi422-dot/mini-project.git
+git clone https://github.com/Mansi422-dot/Calculator.git
 ```
 
 ### 2. Open the project
@@ -55,7 +55,7 @@ git clone https://github.com/Mansi422-dot/mini-project.git
 Navigate to the project directory:
 
 ```bash
-cd mini-project
+cd Calculator
 ```
 
 ### 3. Run the application
