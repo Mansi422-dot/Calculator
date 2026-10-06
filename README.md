@@ -81,10 +81,6 @@ You can also use the Live Server extension in Visual Studio Code for local devel
 
 ## 📸 Preview
 
-<div align="center">
-  <img src="assets/calculator.png" alt="Calculator Preview" width="350">
-</div>
-
 ![Calculator Preview](assets/calculator.png)
 
 ## 🧠 What I Learned
