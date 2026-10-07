@@ -83,6 +83,10 @@ You can also use the Live Server extension in Visual Studio Code for local devel
 
 ![Calculator Preview](assets/calculator.png)
 
+## 🌐 Live Demo
+
+👉 [View Live Calculator](https://this-is-my-calci.netlify.app/)
+
 ## 🧠 What I Learned
 
 Through this project, I practiced:
